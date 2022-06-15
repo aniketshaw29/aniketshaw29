@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **new projects.**
 - 📫 How to reach me: **aniketshaw.iembca2023@gmail.com**
-- Development Tech Stack:
-- Backend: Java Spring Boot Hibernate-JPA
-- Frontend: Angular, React
+- Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA
+- Development Tech Stack-Frontend: Angular, React
 - Data Science Tech Stack - Python (libraries - Flask, pandas, numpy, mathplotlib)
 
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
     <a href="https://www.hackerrank.com/aniketshaw" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aniketshaw29" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/aniiiii_29/" target="blank">
+    <a href="https://www.instagram.com/shaw.py/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniketshaw29" height="30" width="40" />
     </a>
     <a href="https://discord.gg/AniketShaw#9455" target="blank">
@@ -48,7 +47,8 @@ Here are some ideas to get you started:
 <br>
 <h1 align="center">🛠️ My favorite tools 🛠️ </h1>
 <div align="center">
-<h3>👨‍💻 Programming languages</h3>
+    <h3>👨‍💻 Programming languages</h3>
+    <!--<h3 align="left">Languages and Tools:</h3> -->
     <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
