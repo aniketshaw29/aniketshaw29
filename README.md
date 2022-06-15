@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning: **Java**
 - 📫 How to reach me: **aniketshaw.iembca2023@gmail.com**
+- Development Tech Stack:
+- Backend: Java Spring Boot Hibernate-JPA
+- Frontend: Angular, React
+
+
+
+Data Science Tech Stack - Python (libraries - Flask, pandas, numpy, mathplotlib)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
