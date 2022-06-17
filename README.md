@@ -5,7 +5,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/aniketshaw29/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/aniketshaw29/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
+  <a href="https://github.com/aniketshaw29/readme-typing-svg"><img src="[https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23](https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner)"></a>
 </p>
 
 <!-- <h1 align="center">Hey there, Aniket here</h1>
