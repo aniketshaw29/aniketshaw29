@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on **new projects.**
-- 📫 How to reach me: **aniketshaw.iembca2023@gmail.com**
+- 📫 How to reach me: **aniketshaw.iembca2023@gmail.com, aniketshaw0001@gmail.com**
 - Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA
 - Development Tech Stack-Frontend: Angular, React
 - Data Science Tech Stack - Python (libraries - Flask, pandas, numpy, mathplotlib)
