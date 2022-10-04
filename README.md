@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on **new projects.**
+- 🔭 I’m currently working on **Banking Management System.**
 - 📫 How to reach me: **aniketshaw.iembca2023@gmail.com, aniketshaw0001@gmail.com**
 - Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA
 - Development Tech Stack-Frontend: Angular, React
