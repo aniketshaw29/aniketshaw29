@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 -->
 
 
-- Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
-- Development Tech Stack-Frontend: Angular, React, Python (Streamlit)
-- Data Science Tech Stack - Python (pandas, numpy, mathplotlib)
+- Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
+- Frontend Tech Stack     : Python (Streamlit), Angular, React 
+- Data Science Tech Stack : Python (pandas, numpy, mathplotlib)
 
 
 <h3 align="left">Connect with me:</h3>
