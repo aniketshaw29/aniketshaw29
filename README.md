@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on **Banking Management System.**
-- Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA
-- Development Tech Stack-Frontend: Angular, React
+- Development Tech Stack-Backend: Java Spring Boot Hibernate-JPA, Node & Express JS
+- Development Tech Stack-Frontend: Angular, React, Python (Streamlit)
 - Data Science Tech Stack - Python (libraries - Flask, pandas, numpy, mathplotlib)
 
 
