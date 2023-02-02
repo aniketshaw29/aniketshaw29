@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 Focusing on **gaining new skills on _Web Development, Cloud Computing and Database._**
 
-- 📫 Mail me here --> **aniketshaw.iembca2023@gmail.com_**
+- 📫 Mail me here --> **aniketshaw.iembca2023@gmail.com**
 
 
 - Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
