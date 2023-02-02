@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 -->
 
 
+- 🔭 Currently pursuing **BCA** from **_Institute of Engineering and Management._**
+
+- 🌱 Focusing on **gaining new skills on _Web Development, Cloud Computing and Database._**
+
+- 📫 Mail me here --> **aniketshaw.iembca2023@gmail.com_**
+
+
 - Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
 - Frontend Tech Stack     : Python (Streamlit), Angular, React 
 - Data Science Tech Stack : Python (pandas, numpy, mathplotlib)
