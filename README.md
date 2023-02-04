@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 
 - Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
-- Frontend Tech Stack     : Python (Streamlit), Angular, React 
+- Frontend Tech Stack     : Python (Streamlit), Angular
 - Data Science Tech Stack : Python (pandas, numpy, mathplotlib)
-- Cloud                   : AWS
+- Cloud Computing         : AWS
 - Database                : Oracle, MySQL, MongoDB (NoSQL)
 
 
