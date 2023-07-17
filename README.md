@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 - 📫 Mail me here --> **aniketshawwork@gmail.com**
 
 
-- Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
-- Frontend Tech Stack     : Python (Streamlit), Angular
+- Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Python (Flask), Node (Express)
+- Frontend Tech Stack     : Angular
 - Data Science Tech Stack : Python (pandas, numpy, mathplotlib)
 - Cloud Computing         : AWS
 - Database                : Oracle, MySQL
+- NoSQL                   : MongoDB
 
 
 <h3 align="left">Connect with me:</h3>
