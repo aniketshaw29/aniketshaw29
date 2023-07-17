@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Currently pursuing **BCA** from **_Institute of Engineering and Management._**
+- 🔭 Graduated with a **BCA degree** from **_Institute of Engineering and Management._**
 
 - 🌱 Focusing on **gaining new skills on _Web Development, Cloud Computing and Database._**
 
-- 📫 Mail me here --> **aniketshaw.iembca2023@gmail.com**
+- 📫 Mail me here --> **aniketshawwork@gmail.com**
 
 
 - Backend Tech Stack      : Java Spring Boot Hibernate-JPA, Python (Flask), Node & Express JS
 - Frontend Tech Stack     : Python (Streamlit), Angular
 - Data Science Tech Stack : Python (pandas, numpy, mathplotlib)
 - Cloud Computing         : AWS
-- Database                : Oracle, MySQL, MongoDB (NoSQL)
+- Database                : Oracle, MySQL
 
 
 <h3 align="left">Connect with me:</h3>
