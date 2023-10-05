@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 Graduated with a **BCA degree** from **_Institute of Engineering and Management._**
+- 🔭 **BCA Grad** from **_Institute of Engineering and Management._**
 
-- 🌱 Focusing on **gaining new skills on _Web Development, Cloud Computing and Database._**
+- 🌱 Focusing on **gaining new skills on _APIs Development, Cloud Computing and DevOps._**
 
 - 📫 Mail me here --> **aniketshawwork@gmail.com**
 
 
 - Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Python (Flask), Node (Express)
 - Cloud Computing         : AWS
+- DevOps                  : Docker, k8s
 - Database                : Oracle, MySQL
 - NoSQL                   : MongoDB
 - Frontend Tech Stack     : Angular
