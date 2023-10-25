@@ -6,25 +6,20 @@
 
 - 📫 Mail me here --> **aniketshawwork@gmail.com**
 
-<br>
-Working Knowledge:
-<br>
-- Backend Tech Stack      : Java Spring Boot, Node (Express) Python (Flask)
-<br>
-- Database                : Oracle, MySQL
-<br>
-- NoSQL                   : MongoDB
-<br>
-- Cloud Computing         : AWS
-<br>
-- DevOps                  : Docker, k8s
-<br>
-<br>
-Understanding Knowledge:
-<br>
-- Frontend Tech Stack     : Angular, HTML, CSS
-<br>
-- Data Science Tech Stack : Python Libs
+<br><br>Working Knowledge:
+<br>- Language: Java
+<br>- Backend Stack : Java Spring Boot, Node (Express) Python (Flask)
+<br>- RDBMS : Oracle, MySQL
+<br>- NoSQL DB : MongoDB
+
+<br><br>Learning:
+<br>- Cloud Computing : AWS
+<br>- DevOps : Docker, k8s
+
+<br><br>Understanding Knowledge:
+<br>- Languages : C, C++, Python, JS, TS
+<br>- Frontend : Angular, HTML, CSS
+<br>- Data Science : Python Libs
  
 <br>
 <div align=center>
