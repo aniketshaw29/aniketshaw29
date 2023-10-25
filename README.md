@@ -12,7 +12,7 @@
 <br>- RDBMS : Oracle, MySQL
 <br>- NoSQL DB : MongoDB
 
-<br>Learning:
+Learning:
 <br>- Cloud Computing : AWS
 <br>- DevOps : Docker, k8s
 
