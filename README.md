@@ -20,7 +20,7 @@ Working Knowledge:
 - DevOps                  : Docker, k8s
 <br>
 <br>
-Understandimg Knowledge:
+Understanding Knowledge:
 <br>
 - Frontend Tech Stack     : Angular, HTML, CSS
 <br>
