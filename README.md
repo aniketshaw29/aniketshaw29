@@ -1,25 +1,6 @@
 <h1 align="center">
-  Welcome to Aniket's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&random=false&width=435&lines=Scholar%40SAP;Self+Taught+Backend+Developer" alt="Typing SVG" /></a>
 </h1>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/aniketshaw29/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/aniketshaw29/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&size=23&color=F74533&background=EFFF4F00&center=true&width=500&height=45&lines=A+Self+Taught+Developer;Learning+Web+App+Development;Backend+Developer;A+Quick+Learner"></a>
-</p>
-
-<!-- <h1 align="center">Hey there, Aniket here</h1>
-<h3 align="center">Technology Enthusiast</h3> -->
-<!--
-**aniketshaw29/aniketshaw29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 - 🔭 **BCA Grad** from **_Institute of Engineering and Management._**
@@ -28,14 +9,21 @@ Here are some ideas to get you started:
 
 - 📫 Mail me here --> **aniketshawwork@gmail.com**
 
-
-- Backend Tech Stack      : Java Spring Boot (Hibernate-JPA), Python (Flask), Node (Express)
-- Cloud Computing         : AWS
-- DevOps                  : Docker, k8s
+<br>
+Working Knowledge:
+<br>
+- Backend Tech Stack      : Java Spring Boot, Node (Express) Python (Flask)
 - Database                : Oracle, MySQL
 - NoSQL                   : MongoDB
-- Frontend Tech Stack     : Angular
-- Data Science Tech Stack : Python Libs
+- Cloud Computing         : AWS
+- DevOps                  : Docker, k8s
+
+<br>
+Understandimg Knowledge:
+<br>
+Frontend Tech Stack     : Angular, HTML, CSS
+<br>
+Data Science Tech Stack : Python Libs
  
 <br>
 <div align=center>
@@ -45,9 +33,3 @@ Here are some ideas to get you started:
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/aniketshaw29/count.svg" />  
 </p>
-
-
-
-
-
-
