@@ -16,12 +16,11 @@ Learning:
 <br>- Cloud Computing : AWS
 <br>- DevOps : Docker, k8s
 
-<br>Understanding Knowledge:
+Understanding Knowledge:
 <br>- Languages : C, C++, Python, JS, TS
 <br>- Frontend : Angular, HTML, CSS
 <br>- Data Science : Python Libs
  
-<br>
 <div align=center>
     <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
