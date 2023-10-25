@@ -13,17 +13,21 @@
 Working Knowledge:
 <br>
 - Backend Tech Stack      : Java Spring Boot, Node (Express) Python (Flask)
+<br>
 - Database                : Oracle, MySQL
+<br>
 - NoSQL                   : MongoDB
+<br>
 - Cloud Computing         : AWS
+<br>
 - DevOps                  : Docker, k8s
-
+<br>
 <br>
 Understandimg Knowledge:
 <br>
-Frontend Tech Stack     : Angular, HTML, CSS
+- Frontend Tech Stack     : Angular, HTML, CSS
 <br>
-Data Science Tech Stack : Python Libs
+- Data Science Tech Stack : Python Libs
  
 <br>
 <div align=center>
