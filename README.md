@@ -12,11 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Backend Developer @** :contentReference[oaicite:0]{index=0}
-- 🚀 Passionate about **Cloud Native Engineering, AI Systems & Developer Products**
-- 🧠 Exploring **LLMs, Agentic AI, Prompt Engineering & AI workflows**
-- ⚙️ Love building **scalable APIs, backend platforms & production-ready systems**
-- 🌱 Currently focused on **AI + Backend integrations & modern cloud-native development**
+- 💼 **Backend Developer 
 - 📫 Reach me → **aniketshawwork@gmail.com**
 
 ---
