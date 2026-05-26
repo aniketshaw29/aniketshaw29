@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 **Backend Developer 
+- 💼 **Backend Developer**
 - 📫 Reach me → **aniketshawwork@gmail.com**
 
 ---
