@@ -8,7 +8,7 @@
 
 <br>Working Knowledge:
 <br>- Language: Java
-<br>- Backend Stack : Java Spring Boot, Node (Express) Python (Flask, Fast API)
+<br>- Backend Stack : Java(Spring Boot), Node (Express) Python (Fast API)
 <br>- RDBMS : Oracle, MySQL, HANA
 <br>- NoSQL DB : MongoDB
 
