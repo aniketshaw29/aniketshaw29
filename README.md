@@ -27,7 +27,7 @@
 
 ---
 
-## 🤖 AI / LLM Engineering
+## 🤖 AI Engineering
 
 - **Large Language Models (LLMs)**
 - **Prompt Engineering**
