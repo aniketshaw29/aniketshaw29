@@ -22,10 +22,8 @@
 **SAP Labs India** — *Backend Developer / Developer*
 `Aug 2023 – Present · Bangalore`
 
-- **Developer · SAP Demand & Inventory Planning (DIP / Euphoria team)** `Current`
-  - Building cloud-native backend services for predictive replenishment (PRP) on SAP BTP
-  - Working on `crp-param-determination` — Spark-based parameter selection engine (Java, Apache Spark)
-  - Bug fixes, feature development, and cross-team collaboration (MOP, Config Assignment)
+- **Developer · SAP** `Current`
+  - Building cloud-native backend services
 
 - **Associate Developer · Internship** `Jun 2022 – Aug 2023`
   - Backend development internship; onboarded onto SAP BTP and cloud-native development
