@@ -17,6 +17,31 @@
 
 ---
 
+## 💼 Experience
+
+**SAP Labs India** — *Backend Developer / Developer*
+`Aug 2023 – Present · Bangalore`
+
+- **Developer · SAP Demand & Inventory Planning (DIP / Euphoria team)** `Current`
+  - Building cloud-native backend services for predictive replenishment (PRP) on SAP BTP
+  - Working on `crp-param-determination` — Spark-based parameter selection engine (Java, Apache Spark)
+  - Bug fixes, feature development, and cross-team collaboration (MOP, Config Assignment)
+
+- **Associate Developer · Internship** `Jun 2022 – Aug 2023`
+  - Full-stack development internship; onboarded onto SAP BTP and cloud-native development
+
+---
+
+## 🎓 Education
+
+**M.Tech** — *Computer Science & Engineering*
+`BITS Pilani · 2023 – Present (Working Professional)`
+
+**BCA** — *Bachelor of Computer Applications*
+`IEM Kolkata · 2019 – 2022`
+
+---
+
 ## ⚡ Core Stack
 
 ### 💻 Backend Engineering
