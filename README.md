@@ -22,12 +22,6 @@
 **SAP Labs India** — *Backend Developer / Developer*
 `Aug 2023 – Present · Bangalore`
 
-- **Developer · SAP** `Current`
-  - Building cloud-native backend services
-
-- **Associate Developer · Internship** `Jun 2022 – Aug 2023`
-  - Backend development internship; onboarded onto SAP BTP and cloud-native development
-
 ---
 
 ## 🎓 Education
