@@ -28,7 +28,7 @@
   - Bug fixes, feature development, and cross-team collaboration (MOP, Config Assignment)
 
 - **Associate Developer · Internship** `Jun 2022 – Aug 2023`
-  - Full-stack development internship; onboarded onto SAP BTP and cloud-native development
+  - Backend development internship; onboarded onto SAP BTP and cloud-native development
 
 ---
 
@@ -71,5 +71,4 @@
 
 - **Databases:** Oracle, MySQL, SAP HANA, MongoDB
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Cloud-native architecture
-- **Frontend:** Angular, React
 - **Languages / Ecosystem:** JavaScript, TypeScript, Python ecosystem, C, C++
