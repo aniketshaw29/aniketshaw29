@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 
-**SAP Labs India** — *Backend Developer / Developer*
+**SAP Labs India** — *SDE 1*
 `Aug 2023 – Present · Bangalore`
 
 ---
