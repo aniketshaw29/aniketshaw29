@@ -1,30 +1,18 @@
-<h1 align="center">Hi, I'm Aniket Shaw 👋</h1>
+```yaml
+name       : Aniket Shaw
+role       : Full Stack Cloud Native Developer @ SAP Labs
+focus      : Backend • AI • Mobile App Development
+languages  : Java • Python • SQL
+backend    : Spring Boot • Microservices • Kafka • REST APIs
+ai         : AI Agents • LLMs • RAG • MCP • Agentic Workflows
+education  : M.Tech @ BITS Pilani
+```
 
-<p align="center">
-Backend Engineer • AI Enthusiast • Cloud Native Developer
-</p>
+### 🚀 Currently
 
----
-
-### About Me
-
-- 💼 Backend Engineer at **SAP Labs**
-- 🎓 M.Tech (Software Engineering) @ **BITS Pilani**
-- 💻 Building scalable backend systems with Java & Spring Boot
-- 🤖 Exploring AI Agents and LLM applications
-- ☁️ Interested in Cloud, Kubernetes, and Distributed Systems
-
----
-
-### Currently
-
-- 🚀 Building AI Agent applications
-- 📚 Learning System Design
-- 🌱 Contributing to Open Source
-
----
-
-### Connect
-
-- 💼 LinkedIn: linkedin.com/in/aniketshaw
-- 📧 aniketshawwork@gmail.com
+- 🤖 Building AI Agents with LLMs, RAG & MCP
+- 🧠 Exploring Multi-Agent Systems & Agentic Workflows
+- ⚙️ Developing Scalable Backend Systems with Spring Boot
+- ☁️ Learning Cloud Native & Distributed Architectures
+- 📚 Studying System Design & Software Architecture
+- 🌱 Open to Collaborating on Open Source & AI Projects
