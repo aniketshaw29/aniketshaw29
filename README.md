@@ -12,6 +12,7 @@ education  : M.Tech @ BITS Pilani
 
 - 🤖 Building AI Agents with LLMs, RAG & MCP
 - 🧠 Exploring Multi-Agent Systems & Agentic Workflows
+- 📱 Building Cross-Platform Mobile Apps with React Native
 - ⚙️ Developing Scalable Backend Systems with Spring Boot
 - ☁️ Learning Cloud Native & Distributed Architectures
 - 📚 Studying System Design & Software Architecture
