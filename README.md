@@ -11,8 +11,7 @@ education  : M.Tech @ BITS Pilani, BCA @ IEM Kolkata
 ### 🚀 Currently
 
 - ⚙️ Developing Scalable Backend Systems with Spring Boot
+- ☁️ Learning Cloud Native & Distributed Architectures
 - 🤖 Exploring AI Agents with LLMs, RAG & MCP
 - 📱 Learning Cross-Platform Mobile app dev with React Native
-- ☁️ Learning Cloud Native & Distributed Architectures
-- 📚 Studying System Design & Software Architecture
 - 🌱 Open to Collaborating on Open Source & AI Projects
