@@ -1,7 +1,6 @@
 ```yaml
-name       : Aniket Shaw
 role       : Full Stack Cloud Native Developer @ SAP Labs
-focus      : Backend • AI • Mobile App 
+focus      : Backend • AI • web App 
 languages  : Java • Python • SQL
 backend    : Spring Boot • Microservices • Kafka • REST APIs
 ai         : AI Agents • LLMs • RAG • MCP • Agentic Workflows
